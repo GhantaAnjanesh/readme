@@ -1,29 +1,24 @@
-# Hey Everyone! I'm [Kiransagar](https://github.com/kiransagar1) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [GhantaAnjanesh](https://github.com/kiransagar1) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 <a href="https://www.linkedin.com/in/kiran-sagar-a00a761b2/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/kiransagar1">
+<a href="https://github.com/GhantaAnjanesh">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/pythonlifetelugu/?hl=en">
+<a href="https://www.instagram.com/vasu_ghanta/?hl=en">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/channel/UC3Qe9c8dZqnjwcDD2vCZBKQ">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
+
 <br><br>
-## <p align="center"><h4 align="center"><samp> An Python Developer, An Open Source Contributor, Youtuber  & A Competitive Programmer, online Trainer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> An Python Developer, An Open Source Contributor </samp></h4></p>
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
 
-- 🔭 I’m currently working on Codingrad
-- 🔭 I’m currently working on PythonLife
 - 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about Computer Vision
-- 📫 How to reach me: pythonlifekiran@gmail.com
+- 📫 How to reach me: anjaneshghanta9@gmail.com
   <br>
 </div>
 ##
@@ -94,5 +89,5 @@
 </a>
 </p>
 ### 📈 GitHub Activity:
-  <a href="https://github.com/kiransagar1/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kiransagar1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/GhantaAnjanesh/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GhantaAnjanesh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br>  
