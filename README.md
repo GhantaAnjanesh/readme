@@ -62,12 +62,4 @@
   
 <br>
   
-### 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kiransagar1&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
-### 📈 GitHub Activity:
-  <a href="https://github.com/GhantaAnjanesh/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GhantaAnjanesh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-<br>  
+
