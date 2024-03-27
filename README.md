@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [GhantaAnjanesh](https://github.com/kiransagar1) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [GhantaAnjanesh](https://github.com/GhantaAnjanesh) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 <a href="https://www.linkedin.com/in/anjanesh-ghanta-03a9831a0?/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -24,7 +24,7 @@
 ##
 <div>
 <
-##
+
 <h3><b><samp>Skills and Languages</samp></b></h3>
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
